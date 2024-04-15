@@ -41,5 +41,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
 - [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
